@@ -10,7 +10,7 @@
     <text name="InvalidUserNameOrPassword">Usuario o contraseña inválidos</text>
     <text name="ThereIsNoTenantDefinedWithName{0}">No hay una instancia definida con el nombre {0}</text>
     <text name="TenantIsNotActive">Instancia {0} no está activa.</text>
-    <text name="UserIsNotActiveAndCanNotLogin">Usuario {0} no está activo y no puede hacer login.</text>
+    <text name="UserIsNotActiveAndCanNotLogin">Usuario {0} no está activo y no puede hacer login. + edited </text>
     <text name="PleaseEnterLoginInformation">Por favor provea la información de login</text>
     <text name="TenancyName">Nombre de la instancia</text>
     <text name="UserNameOrEmail">Nombre de usuario o correo</text>
