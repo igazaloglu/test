@@ -10,7 +10,7 @@
     <text name="InvalidUserNameOrPassword">Usuario o contraseña inválidos</text>
     <text name="ThereIsNoTenantDefinedWithName{0}">No hay una instancia definida con el nombre {0}</text>
     <text name="TenantIsNotActive">Instancia {0} no está activa.</text>
-    <text name="UserIsNotActiveAndCanNotLogin">Usuario {0} no está activo y no puede hacer login.</text>
+    <text name="UserIsNotActiveAndCanNotLogin">Usuario {0} no está activo y no puede hacer login. + edited </text>
     <text name="PleaseEnterLoginInformation">Por favor provea la información de login</text>
     <text name="TenancyName">Nombre de la instancia</text>
     <text name="UserNameOrEmail">Nombre de usuario o correo</text>
@@ -117,7 +117,7 @@
     <text name="InvalidEmailConfirmationCode">Código de confirmación de correo inválido</text>
     <text name="InvalidEmailConfirmationCode_Detail">Por favor asegúrse de haber entrado a esta página dando click a la liga enviada a su correo. Si esto no resuelve el problema, puede reintentar solicitar un nuevo código de confirmación.</text>
     <text name="YourEmailIsConfirmedMessage">Su correo fue confirmado exitosamente..</text>
-    <text name="ShouldChangePasswordOnNextLogin">Debe cambir su contraseña en su próximo login.</text>
+    <text name="ShouldChangePasswordOnNextLogin">Debe cambir su contraseña en su próximo login.+ edit</text>
     <text name="SetRandomPassword">Asignar contraseña aleatoria.</text>
     <text name="EmailActivation">Activación de correo</text>
     <text name="SendEmailActivationLink_Information">Se enviará una liga a su correo para activar su dirección de correo. Si no recibe el correo en unos minutos, por favor reintente.</text>
@@ -317,7 +317,7 @@
     <text name="FromTenantToHostImpersonationErrorMessage">¡No es posible impersonalizar un usuario 'host' a partir de un usuario de una instancia!</text>
     <text name="DifferentTenantImpersonationErrorMessage">¡No es posible impersonalizar un usuario de una instancia diferente!</text>
     <text name="ImpersonationTokenErrorMessage">¡Token de impersonalización es inválido o expirado!</text>
-    <text name="NotImpersonatedLoginErrorMessage">¡Este no es un login impersonalizado!</text>
+    <text name="NotImpersonatedLoginErrorMessage">¡Este no es un login impersonalizado! + edit </text>
     <text name="YouCannotLinkToSameAccount">¡No puedes ligar a la misma cuenta!</text>
     <text name="ChangePasswordBeforeLinkToAnAccount">¡Debes cambiar la contraseña antes de ligar esta cuenta!</text>
     <text name="LinkedAccounts">Cuentas ligadas</text>
